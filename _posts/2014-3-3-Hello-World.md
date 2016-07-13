@@ -3,7 +3,7 @@ layout: post
 title: Hello, from the other side
 ---
 
-##How are you?
+## How are you?
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
